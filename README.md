@@ -1,0 +1,2 @@
+# SmartMirror
+My senior project
